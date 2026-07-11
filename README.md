@@ -17,3 +17,10 @@ Roadmap ->
 - Assemble + wire electronics
 - Code functions
 
+Materials needed (BOM) : **TBD
+1x Arduino microcontroller (nano? uno?)
+1x display screen 
+4x servo motors
+? 3D printing filament (gray)
+3x push buttons
+jumper wires, screws, etc.???
