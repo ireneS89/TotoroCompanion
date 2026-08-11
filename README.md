@@ -5,7 +5,7 @@
 
 <img width="172" height="294" alt="IMG_3217" src="https://github.com/user-attachments/assets/fb3bb8b7-8d9e-4ff9-bad8-179b0a32f3c3" />
 
->>STARDANCE DESC
+>STARDANCE DESC
 “I'm building a life-like mini Totoro robot that sits on your desk to help you 
 achieve productivity goals. Its ears and nose act as buttons to switch into different 
 modes, whether you want to be in ‘focus mode’, ‘break mode’, or ‘normal’. The normal 
