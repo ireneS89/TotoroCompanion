@@ -20,7 +20,7 @@ Totoro Companion is for those who hustle, who make life busy, who have prioritie
 
 >FEATURES
 1) ears ->
-     *right ear : break mode
+    *right ear : break mode
         *screen displays "break mode"
         *tracks time + logs time into connected app
      *left ear : focus mode
