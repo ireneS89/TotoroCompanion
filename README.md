@@ -36,12 +36,6 @@ Totoro Companion is for those who hustle, who make life busy, who have prioritie
 Totoro Companion is paired to an app that aids in observing and reflecting on your progress at a larger scale. 
 
 *>FEATURES
-*>flowchart
-
->home -> time log -> edit
-      -> library
-      -> settings
-
 
 >time log
   *history of tracked time
