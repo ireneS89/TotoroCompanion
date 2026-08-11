@@ -15,28 +15,28 @@ The product aims to encourage and maintain blocks of focus and breaks to effecti
 progress in one's life.”
 
 
->>PITCH
+>PITCH
 Totoro Companion is for those who hustle, who make life busy, who have priorities, or even those who want to become those people. Using interactive and creative technology, the product maintains your focus to ensure your best outputs and push you to be your most productive and aware self.
 
->>FEATURES
-<1> ears ->
+>FEATURES
+1) ears ->
      *right ear : break mode
         *screen displays "break mode"
         *tracks time + logs time into connected app
      *left ear : focus mode
         *screen displays "focus mode"
         *tracks time + logs time into connected app
-<2> nose ->
+2) nose ->
      * : normal mode -> TOTORO MOVEMENTS
         *blinking
         *head / arm movements 
 
 
-<<APP>> (PLANNING IN PROGRESS)
+>APP (PLANNING IN PROGRESS)
 Totoro Companion is paired to an app that aids in observing and reflecting on your progress at a larger scale. 
 
->>FEATURES
->flowchart
+*>FEATURES
+*>flowchart
 
             <home>
   |            |           |
