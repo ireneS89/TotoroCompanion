@@ -16,7 +16,7 @@ progress in one's life.”
 
 
 >PITCH
-Totoro Companion is for those who hustle, who make life busy, who have priorities, or even those who want to become those people. Using interactive and creative technology, the product maintains your focus to ensure your best outputs and push you to be your most productive and aware self.
+Totoro Companion is for those who hustle, who make life busy, who have priorities, or even those who want to become such people. Using interactive and creative technology, the product maintains your focus to ensure your best outputs and push you to be your most productive and aware self.
 
 >FEATURES
 1) ears ->
