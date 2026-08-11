@@ -38,13 +38,10 @@ Totoro Companion is paired to an app that aids in observing and reflecting on yo
 *>FEATURES
 *>flowchart
 
-            <home>
-  |            |           |
-  v            v           v
-<time log>  <library>  <settings>
-   |
-   v
-<edit>
+>home -> time log -> edit
+      -> library
+      -> settings
+
 
 >time log
   *history of tracked time
