@@ -20,34 +20,29 @@ progress in one's life.”
 Totoro Companion is for those who hustle, who make life busy, who have priorities, or even those who want to become such people. Using interactive and creative technology, the product maintains your focus to ensure your best outputs and push you to be your most productive and aware self.
 
 >FEATURES
-*ears
->right ear
->
->left ear
-1) ears ->
-    *right ear : break mode
-        *screen displays "break mode"
-        *tracks time + logs time into connected app
-     *left ear : focus mode
-        *screen displays "focus mode"
-        *tracks time + logs time into connected app
-2) nose ->
-     * : normal mode -> TOTORO MOVEMENTS
-        *blinking
-        *head / arm movements 
+   - ears
+      - right ear
+         - break mode -> screen displays "break mode"
+         - tracks time + logs time into connected app (SEE BELOW)
+      - left ear
+         - focus mode -> screen displays "focus mode"
+         - tracks time + logs time into connected app
+   - nose
+      - normal mode -> TOTORO MOVEMENTS
+         - blinking
+         - head / arm movements
 
 
 >APP (PLANNING IN PROGRESS)
 Totoro Companion is paired to an app that aids in observing and reflecting on your progress at a larger scale. 
 
-*>FEATURES
-
->time log
-  *history of tracked time
-  >edit
-    *add desc under time blocks (ex. 2 hours|focus mode -> studied biology)
-    *appearance (colors, styles, etc.)
-    *
+>FEATURES
+   - time log
+      - history of tracked time
+      - edit >
+         - add desc under time blocks
+         - appearance
+   - hardware commands
 
 -------------------------
 
