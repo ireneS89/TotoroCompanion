@@ -29,7 +29,7 @@ Totoro Companion is for those who hustle, who make life busy, who have prioritie
          - focus mode -> screen displays "focus mode"
          - tracks time + logs time into connected app
    - nose
-      - normal mode -> TOTORO MOVEMENTS
+      - normal mode -> TOTORO MOVEMENTS & screen displays Totoro belly graphics
          - blinking
          - head / arm movements
 
