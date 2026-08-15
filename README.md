@@ -47,7 +47,7 @@ Totoro Companion is paired to an app that aids in observing and reflecting on yo
 
 
 >## SIMPLY
-In other words, it is a hardware device that times yourself while completing tasks and taking breaks. It also features a mode of actual robot movements that embodies the Totoro character. 
+>In other words, it is a hardware device that times yourself while completing tasks and taking breaks. It also features a mode of actual robot movements that embodies the Totoro character. 
 -------------------------
 
 Roadmap ->
