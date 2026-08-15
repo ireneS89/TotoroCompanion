@@ -19,8 +19,8 @@ progress in one's life.”
 >PITCH - 
 Totoro Companion is for those who hustle, who make life busy, who have priorities, or even those who want to become such people. Using interactive and creative technology, the product maintains your focus to ensure your best outputs and push you to be your most productive and aware self.
 
-## Totoro Companion
-# FEATURES
+# Totoro Companion
+## FEATURES
    - ears
       - right ear
          - break mode -> screen displays "break mode"
@@ -34,7 +34,7 @@ Totoro Companion is for those who hustle, who make life busy, who have prioritie
          - head / arm movements
 
 
-# APP (PLANNING IN PROGRESS)
+## APP (PLANNING IN PROGRESS)
 Totoro Companion is paired to an app that aids in observing and reflecting on your progress at a larger scale. 
 
 **FEATURES**
