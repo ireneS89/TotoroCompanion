@@ -2,7 +2,8 @@
 
 <img width="1920" height="1080" alt="07 20 26" src="https://github.com/user-attachments/assets/54c9556f-d510-48fd-a239-454d60601331" />
 
-
+<img width="151.2" height="201.6" alt="IMG_4307" src="https://github.com/user-attachments/assets/1b25ff9c-6a21-471f-96a9-3f361ee23ee0" />
+<img width="151.2" height="201.6" alt="IMG_4306" src="https://github.com/user-attachments/assets/fa692d55-91ec-4b20-8c6e-62fbeba1dc27" />
 <img width="172" height="294" alt="IMG_3217" src="https://github.com/user-attachments/assets/fb3bb8b7-8d9e-4ff9-bad8-179b0a32f3c3" />
 
 >STARDANCE DESC
