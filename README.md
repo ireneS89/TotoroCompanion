@@ -56,5 +56,5 @@ Roadmap ->
     - snap-fit mechanisms
     - Totoro shape
 - 3D print parts
-- Assemble + wire electronics (PCB??)
+- Assemble + wire electronics *PCB??
 - Code functions
